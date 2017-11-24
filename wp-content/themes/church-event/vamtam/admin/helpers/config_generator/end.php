@@ -1,7 +1,0 @@
-<?php
-/**
- * section end
- */
-?>
-
-</div>
